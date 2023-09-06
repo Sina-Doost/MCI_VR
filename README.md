@@ -1,2 +1,2 @@
 # MCI_VR
-MCI VR Interactive Envirment
+MCI VR Interactive environment
